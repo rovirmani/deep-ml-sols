@@ -1,1 +1,1 @@
-##My solutions to exercises on [http://deep-ml.com]
+## My solutions to exercises on [http://deep-ml.com]
